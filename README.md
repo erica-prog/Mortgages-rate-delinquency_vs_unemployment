@@ -20,7 +20,7 @@ The following data sets were collected by from FRED data:
 ## Findings
 ![mortgage_rate vs unemployment_rate_Black.png](https://github.com/erica-prog/Mortage-rate-deliquency_Unemployment/blob/main/image/mortgage_rate%20vs%20unemployment_rate_Black.gif)
 1. There is a correlation between unemployment in the Black community and mortgage delinquency rate in single households. 
-2. During Submprime mortgage crisis, we can see the mortgage delinquency rate surged up around 200%. 
+2. During Subprime mortgage crisis, we can see the mortgage delinquency rate surged up around 200%. 
 3. During the COVID-19 pandemic, the mortgage delinquency rate has had a smaller percentage increase due to the forbearance scheme, despite having  very high levels of unemployment.
 
 ## Future investigations
